@@ -16,6 +16,8 @@
 
 1. Клонируйте репозиторий:
 ``git clone https://github.com/disp06/Tic-Tac-Toe.git``
+
+
 ``cd Tic-Tac-Toe``
 
 1. Установите зависимости:
