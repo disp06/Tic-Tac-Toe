@@ -15,29 +15,47 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
+
+
+
 ``git clone https://github.com/disp06/Tic-Tac-Toe.git``
 
 
 ``cd Tic-Tac-Toe``
 
 1. Установите зависимости:
+
+
+
 ``pip install flask
 ``
 
 2. Проверьте структуру проекта:
+
+
+
 main.py
 /templates/index.html
 /static/style.css
 
 
 3. Запустите сервер:
+
+
+
 ``python main.py
 ``
 
 6. Откройте браузер и перейдите по адресу:
+
+
+
 http://localhost:6237/
 
 ## Технологии
+
+
+
 - Python 3.x
 - Flask
 
