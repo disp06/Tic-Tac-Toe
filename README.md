@@ -16,8 +16,8 @@
 
 1. Клонируйте репозиторий:
 ``bash
-git clone https://github.com/your_username/tictactoe-flask.git
-cd tictactoe-flask
+git clone https://github.com/disp06/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
 ``
 
 2. Установите зависимости:
